@@ -2,8 +2,8 @@ import React from 'react';
 import PropTypes from 'prop-types';
 
 // Iconos
-import basic_trashcan from '../img/basic_trashcan.svg';
-import basic_pin2 from '../img/basic_pin2.svg';
+import basic_trashcan from 'img/basic_trashcan.svg';
+import basic_pin2 from 'img/basic_pin2.svg';
 
 const nota = ({nota, eliminarNota}) => (
     <div className="nota">
