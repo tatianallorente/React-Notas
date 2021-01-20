@@ -4,7 +4,7 @@ import { v4 as uuidv4 } from 'uuid';
 import PropTypes from 'prop-types';
 
 // Iconos
-import arrows_circle_plus from 'React-Notas/img/arrows_circle_plus.svg';
+import arrows_circle_plus from '../img/arrows_circle_plus.svg';
 
 const Formulario = ({crearNota}) => {
 
